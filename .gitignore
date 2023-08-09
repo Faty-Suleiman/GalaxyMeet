@@ -1,0 +1,4 @@
+.env
+/gnode_modules
+config/config.json
+
